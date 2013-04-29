@@ -8,7 +8,7 @@ This is a quick little ask-me-anything type of repository. It's inspired by
 ### Ask a question
 
 Asking a question is as easy as
-[creating a new issue](https://github.com/mdo/feedback/issues/new) on this
+[creating a new issue](https://github.com/phuu/feedback/issues/new) on this
 project.
 
 I'll try to answer it as soon as I can get to it. Once I answer I'll close the
